@@ -1,32 +1,29 @@
-This is a modified version of Jcw87's c2-sans-fight, except with harder attacks.
-If you want to see any changes, please go to the gh-pages branch. I don't have Construct 2, so I'm not updating this branch. All I did was change the attacks, change some text... and clobber the "Infinite Loop Detected" function. So that's that.
+# Attention
+**This is a modified version of Jcw87's c2-sans-fight, except with harder attacks. The only changes were the attacks, some text, the "Infinite Loop Detected" function, and sprites, which means that you shouldn't be testing your own custom attacks here. Just go to https://kayos156.github.io/BoundFight to play!**
 
+[**Wiki**](https://github.com/kayos156/BoundFight/wiki)
+________________________________________________________________________________
 
+# Credit
 
+**Some attacks by: [estebanfer](https://www.reddit.com/user/estebanfer)**
 
+**Original Hard Mode: [gotoAndDie](https://github.com/gotoAndDie)**
 
+**Original: [Jcw87](https://github.com/Jcw87)**
 
+**Song Used: [SOLLICITUS I](https://soundcloud.com/ragher/swapped-realities-au-sollicitius-original)**
 
+**Song Creator: [Judge](https://soundcloud.com/ragher)**
 
+**Final Attack(s): [Mush 2 Blue](https://www.youtube.com/channel/UCMHwpcP2P4AbV1tDgz5N5XA)**
+________________________________________________________________________________
 
+# Updates
+**Increased HP to 99 to match with LV 20**
 
+**Switched Insane Bound Sprites to Sane Bound Sprites**
 
-# Bad Time Simulator (Sans Fight)
-This project is a clone of the sans fight from [Undertale](http://undertale.com/).
-It was made with [Construct 2](https://www.scirra.com/construct2).
+**Switched ShrB Gaming's credit to Mush 2 Blue**
 
-Known Issues
-------------
-- The blue heart jumping behavior is not exact. While most of the movements were made 1:1 from the original fight, this one was estimated.
-- Heart hitbox is too small. Well, actually, it's more like a hit _point_.
-- On the sans_platforms4 and sans_platforms4hard attacks, the platform is supposed to accelerate from 0 to its full speed, but I was lazy and started it at full speed immediately. This is only a problem if you try to dodge the bones without jumping.
-- Screen shake is missing. While I could plop in any screen shake algorithm on the internet, I'm more interested in how Undertale did it.
-- Sans dialog is missing. I may add something at some future date, but I have no intention of putting the original text in, as it really only makes sense in the context of the whole game.
-- Missing documentation for custom attacks. I intend to add this at some point, but for now, you can reference the *.csv files in the repository. I may change how this works later, so don't be surprised if your custom attack breaks.
-
-Contact
--------
-If you want to contact me for some reason, you can do so through the following:
-
-- [Facepunch](https://facepunch.com/member.php?u=13155)
-- [Steam](http://steamcommunity.com/id/Jcw87/)
+**Switched Determination Soul to Hate Soul/Soulless Soul...?**

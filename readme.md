@@ -7,8 +7,6 @@
 
 **Have fun, and have a hell of a day.**
 
-[**Wiki**](https://github.com/kayos156/BoundFight/wiki)
-
 ________________________________________________________________________________
 
 # Credit

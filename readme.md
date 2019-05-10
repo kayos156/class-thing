@@ -6,6 +6,7 @@
 ![B U R N  I N  H E L L .](https://www.demirramon.com/gen/undertale_text_box.gif?text=B%20U%20R%20N%20%20I%20N%20%20H%20E%20L%20L&box=undertale&boxcolor=white&character=custom&url=https%3A%2F%2Fi.imgur.com%2F93Vpdvn.png&charcolor=white&font=determination&asterisk=true&mode=regular&animate=true)
 
 **Have fun, and have a hell of a day.**
+
 [**Wiki**](https://github.com/kayos156/BoundFight/wiki)
 
 ________________________________________________________________________________

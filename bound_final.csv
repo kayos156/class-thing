@@ -84,7 +84,7 @@
 0.6,SansSlam,3,,,,,,,
 0,SansBody,HandUp,,,,,,,
 0,BoneStab,3,30,0.3,0.5,,,,
-0.7,SansAnimation,Idle,,,,,,,
+0.7,SansAnimation,Tired,,,,,,,
 0,HeartMode,0,,,,,,,
 0,BoneHRepeat,130,-10,200,1,500,7,183,
 0,BoneHRepeat,330,650,200,3,500,7,183,
